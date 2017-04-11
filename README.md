@@ -2,4 +2,4 @@
 
 # EDUC290B
 
-4-day module for course in the Education School
+2-day module for course in the Education School
